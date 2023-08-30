@@ -12,13 +12,6 @@
       "src": "/(.*)",
       "dest": "/app.js"
     }
-  ],
-  "env": {
-    "DB_HOST": "@db_host",
-    "DB_USER": "@db_user",
-    "DB_DATABASE": "@db_database",
-    "DB_PASSWORD": "@db_password",
-    "DB_PORT": "@db_port",
-    "SECRET": "@secret"
-  }
+  ]
+
 }
